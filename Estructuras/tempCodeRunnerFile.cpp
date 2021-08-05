@@ -1,0 +1,1 @@
+ndido: " << modelosTelefonos[idTelefonoMasVendido - 1].descripcion << endl;    
